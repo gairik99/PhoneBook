@@ -17,4 +17,4 @@ Steps to produce
 
 ## Wireframe
 
-![Wireframe for simple phonebook app](/images/wireframe.png)
+
