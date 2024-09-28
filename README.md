@@ -15,6 +15,4 @@ Steps to produce
 />
 ```
 
-## Wireframe
-
 
